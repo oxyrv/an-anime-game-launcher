@@ -16,7 +16,7 @@ private-directories-description = Ces dossies vont être ramplacer par un systè
 path = Path
 
 shared-directories = Dossiers partagé
-shared-directories-description = These directories will be symlinked to directories in your host system #?
+shared-directories-description = These directories will be symlinked to directories in your host system
 
 original-path = Chemin original
 new-path = Nouveau path
@@ -24,5 +24,5 @@ new-path = Nouveau path
 read-only = Lécture seulement
 read-only-description = Empêche le jeu d'écrire des donées dans ce dossier
 
-symlinks = Symlinks #what?
+symlinks = Symlinks
 symlinks-description = Symlink original path to the new one inside of your sandbox
