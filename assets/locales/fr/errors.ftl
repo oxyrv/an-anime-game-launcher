@@ -3,17 +3,17 @@ game-folder-opening-error = Impossible d'ouvrir l'emplacement du jeu
 config-file-opening-error = Impossible d'ouvrir le fichier de configuration
 debug-file-opening-error = Impossible d'ouvrir le fichier débug
 
-wish-url-search-failed = No wishes url found
+wish-url-search-failed = Aucune URL de veux trouvé
 wish-url-opening-error = Could not open wishes url
 
-wine-run-error = Failed to run {$executable} executable using wine
+wine-run-error = Le lancement de {$executable} avec wine à échoué.
 
 game-launching-failed = Impossible de lancer le jeu
 failed-get-selected-wine = Impossible de récupérer la version de wine sélectionnée
 downloading-failed = Le téléchargement a échoué
 unpacking-failed = L'extraction a échoué
 
-kill-game-process-failed = Failed to kill the game's process
+kill-game-process-failed = Impossible d'arrêter le processus du jeu.
 
 game-file-repairing-error = Impossible de réparer les fichiers du jeu
 integrity-files-getting-error = Impossible de récupérer les fichiers d'intégrité du jeu
