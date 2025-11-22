@@ -19,7 +19,7 @@ game-file-repairing-error = Impossible de réparer les fichiers du jeu
 integrity-files-getting-error = Impossible de récupérer les fichiers d'intégrité du jeu
 
 background-downloading-failed = Impossible de télécharger l'image de fond
-	components-index-sync-failed = La syncronisation de l'index des composants à échoué.
+components-index-sync-failed = La syncronisation de l'index des composants à échoué.
 components-index-verify-failed = La verification de l'index des compisants à échoué.
 config-update-error = Impossible d'enregistrer la configuration
 wine-prefix-update-failed = Impossible de mettre à jour le préfix wine
